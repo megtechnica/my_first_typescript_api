@@ -1,0 +1,26 @@
+[
+    {
+        "bankId": 1231341,
+        "id": 1,
+        "name": "Big Bank",
+        "body": "the biggest bank in the world, yes the whole world."
+    },
+    {
+        "bankId": 65464654,
+        "id": 2,
+        "name": "Smaller Bank",
+        "body": "a slightly smaller bank than the biggest bank in the world"
+    },
+    {
+        "bankId": 98797878,
+        "id": 3,
+        "name": "Mid Bank",
+        "body": "mids."
+    },
+    {
+        "bankId": 312674978,
+        "id": 4,
+        "name": "piggy bank",
+        "body": "literally a ceramic pig with a coin slot."
+    }
+]
